@@ -1,8 +1,7 @@
 # Papers
 
-[Through Liquid Democracy to Sustainable Non-Bureaucratic Government](https://jedem.org/index.php/jedem/article/view/307)
-
-[Pairwise Liquid Democracy](http://research.illc.uva.nl/COMSOC/proceedings/comsoc-2018/BrillTalmonCOMSOC2018.pdf)
+[Through Liquid Democracy to Sustainable Non-Bureaucratic Government](https://jedem.org/index.php/jedem/article/view/307)  
+[Pairwise Liquid Democracy](http://research.illc.uva.nl/COMSOC/proceedings/comsoc-2018/BrillTalmonCOMSOC2018.pdf)  
 
 [Delegative Democracy](http://bford.info/deleg/deleg.pdf)
 
